@@ -1,1 +1,1 @@
-second text file for fs Moduleappended to second file by asncAwaitNodeNative.js
+second text file for fs Moduleappended to second file by asncAwaitNodeNative.jsappended by asyncAwaitSimple.js
