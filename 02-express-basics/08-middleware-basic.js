@@ -21,7 +21,7 @@ app.get('/',(req,res)=>{
     res.send(`Hello, Express!`);
 })
 
-// next() will call the router handler after the middleware is processed
+// next() is a callback function which will call the router handler after the middleware is processed
 app.use((req,res,next)=>{
     console.log(`New request received at ${Date.now()}`);
     next();    
